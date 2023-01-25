@@ -14,7 +14,7 @@ namespace hw7
         public int area;
         public string address;
 
-        public string GetDetails()
+        public string GetVolume()
         {
             return $"building volume is {area * height} cubic meters";
         }
