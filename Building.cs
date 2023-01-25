@@ -13,7 +13,13 @@ namespace hw7
         public int height;
         public int area;
         public string address;
-
+        
+        public Student(string name, int area, int height)
+        {
+         this.name = name;
+         this.area = area;
+         this.height = height;    
+        }
         public string GetVolume()
         {
             return $"building volume is {area * height} cubic meters";
