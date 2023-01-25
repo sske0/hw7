@@ -18,7 +18,7 @@
             //builing1.name = "Density doors";
             //builing1.area = 700;
             //builing1.address = "Bruh St. 18";
-            //Console.WriteLine(builing1.GetDetails());
+            //Console.WriteLine(builing1.GetVolume());
 
 
 
