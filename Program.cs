@@ -13,11 +13,7 @@
             //Console.WriteLine(animal1.GetDetails());
 
             ////2
-            //var builing1 = new Building();
-            //builing1.height = 500;
-            //builing1.name = "Density doors";
-            //builing1.area = 700;
-            //builing1.address = "Bruh St. 18";
+            //var builing1 = new Building("Bruh doors", 700, 500);
             //Console.WriteLine(builing1.GetVolume());
 
 
