@@ -14,7 +14,7 @@ namespace hw7
         public int area;
         public string address;
         
-        public Student(string name, int area, int height)
+        public Building(string name, int area, int height)
         {
          this.name = name;
          this.area = area;
